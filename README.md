@@ -1,0 +1,1 @@
+https://github.com/mogenius/python38-flask-template
